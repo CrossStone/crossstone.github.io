@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://crossstone.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2020 17:17:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://crossstone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>small stone</title>
+      <link>https://crossstone.github.io/post/blog/</link>
+      <pubDate>Sat, 18 Jan 2020 17:17:53 +0800</pubDate>
+      
+      <guid>https://crossstone.github.io/post/blog/</guid>
+      <description>JDATA算法大赛入门(score0.07+时间滑动窗口特征＋xgboost模型) 依赖库  pandas sklearn xgboost  项目结构  data: 储存数据目录 cache: 缓存目录 sub: 结果目录 train: 训练代码 gen_feat: 生成特征  使用说明 python train.py</description>
+    </item>
+    
+  </channel>
+</rss>
